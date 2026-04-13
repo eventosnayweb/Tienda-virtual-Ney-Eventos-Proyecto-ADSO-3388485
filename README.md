@@ -1,5 +1,5 @@
 # Tienda-virtual-Ney-Eventos-Proyecto-ADSO-3388485
-Proyecto tienda virtual adso ![logo nay eventos]([[https://imgur.com/a/dECfEiX](https://imgur.com/4R04ROV)](https://imgur.com/a/dECfEiX#4R04ROV))
+Proyecto tienda virtual adso ![logo nay eventos](file:///C:/Users/sebas/OneDrive/Pictures/Screenshots/logo.png)
 ## Introducción
 
 Hoy en día, el uso de la tecnología es muy importante para el crecimiento de las empresas, ya que permite mejorar la forma en que trabajan y ofrecen sus servicios. En este caso, el proyecto Nay Eventos Web (NEW) surge como una propuesta para ayudar a la empresa Nay Eventos a organizar mejor sus procesos y adaptarse a un entorno más digital.
